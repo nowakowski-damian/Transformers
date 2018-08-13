@@ -9,4 +9,24 @@
         <item>Decepticons</item>
         <item>Tournament</item>
     </string-array>
+
+    <string name="strength">Strength: %s</string>
+    <string name="intelligence">Intelligence: %s</string>
+    <string name="speed">Speed: %s</string>
+    <string name="endurance">Endurance: %s</string>
+    <string name="rank">Rank: %s</string>
+    <string name="courage">Courage: %s</string>
+    <string name="firepower">Firepower: %s</string>
+    <string name="skill">Skill: %s</string>
+    <string name="save">Save</string>
+    <string name="dialog_skill">Skill</string>
+    <string name="dialog_firepower">Firepower</string>
+    <string name="dialog_courage">Courage</string>
+    <string name="dialog_rank">Rank</string>
+    <string name="dialog_endurance">Endurance</string>
+    <string name="dialog_speed">Speed</string>
+    <string name="dialog_intelligence">Intelligence</string>
+    <string name="dialog_strength">Strength</string>
+    <string name="dialog_name">Name</string>
+
 </resources>
