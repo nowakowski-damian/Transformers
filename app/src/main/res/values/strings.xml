@@ -28,5 +28,8 @@
     <string name="dialog_intelligence">Intelligence</string>
     <string name="dialog_strength">Strength</string>
     <string name="dialog_name">Name</string>
+    <string name="vs">VS</string>
+    <string name="number_of_battles">Number of battles: %d</string>
+    <string name="winner_s">Winner: %s</string>
 
 </resources>
