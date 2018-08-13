@@ -50,9 +50,9 @@ class TournamentFragment : BaseFragment<FragmentTournamentBinding>() {
     }
 }
 
-class RecyclerAdapter(trasformerSubject: PublishSubject<MutableList<Transformer>>): RecyclerView.Adapter<com.dnowakowski.transformers.main.tournamentTab.RecyclerAdapter.ViewHolder>() {
+class RecyclerAdapter(trasformerSubject: PublishSubject<List<Transformer>>): RecyclerView.Adapter<com.dnowakowski.transformers.main.tournamentTab.RecyclerAdapter.ViewHolder>() {
 
-    private var transformers: MutableList<Transformer> = ArrayList()
+    private var transformers: List<Transformer> = ArrayList()
 
     init {
         trasformerSubject.subscribe( {
